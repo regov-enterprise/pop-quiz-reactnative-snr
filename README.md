@@ -1,4 +1,6 @@
-![Regov Technologies](https://asset.jobstore.com/uploads/image/743438/mjE5ZEJmNh/REGOVLogo_CMYK.png)
+<p align="center"> 
+    <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
+</p>
 
 # { "developer": "Software Engineer (React Native)" }
 
