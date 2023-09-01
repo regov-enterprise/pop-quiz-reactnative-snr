@@ -2,7 +2,7 @@
     <img src="https://regov-store.s3.ap-southeast-1.amazonaws.com/REGOV+Logo_CMYK.png" width="200" >
 </p>
 
-# { "developer": "Software Engineer (React Native)" }
+# { "Software Engineer" : (React Native) }
 
 Hey! We are excited that you are interested in joining the team at Regov Technologies.
 
